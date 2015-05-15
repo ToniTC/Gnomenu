@@ -1,0 +1,217 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Gno-Menu\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2015-05-55 18:10:00+0100\n"
+"Last-Translator: Antonio Trujillo <lunatc@gmail.com>\n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+
+#: convenience.js
+
+
+#: extension.js
+
+msgid "Gno-Menu: Search Firefox bookmarks disabled"
+msgstr "Gno-Menu: Búsqueda en marcadores de Firefox deshabilitada"
+
+msgid "If you want to search Firefox bookmarks, you must install the required pacakages: libgir1.2-gda-5.0 (Ubuntu) or libgda-sqlite (Fedora)"
+msgstr "Si desea buscar en los marcadores de Firefox, debe instalar los paquetes: libgir1.2-gda-5.0 (Ubuntu/Debian) o libgda-sqlite (Fedora)"
+
+msgid "Gno-Menu: Search Midori bookmarks disabled"
+msgstr "Gno-Menu: Búsqueda en marcadores de Midori deshabilitada"
+
+msgid "If you want to search Midori bookmarks, you must install the required pacakages: libgir1.2-gda-5.0 (Ubuntu) or libgda-sqlite (Fedora)"
+msgstr "Si desea buscar en los marcadores de Firefox, debe instalar los paquetes: libgir1.2-gda-5.0 (Ubuntu/Debian) o libgda-sqlite (Fedora)"
+
+msgid "Recent"
+msgstr "Reciente"
+
+msgid "Web"
+msgstr "Web"
+
+msgid "Favorites"
+msgstr "Favoritos"
+
+msgid "Places"
+msgstr "Lugares"
+
+msgid "List View"
+msgstr "Vista de lista"
+
+msgid "Grid View"
+msgstr "Vista de rejilla"
+
+msgid "Type to search..."
+msgstr "Teclee para buscar"
+
+msgid "Frequent Apps"
+msgstr "Aplicationes frecuentes"
+
+msgid "All Applications"
+msgstr "Todas las aplicaciones"
+
+msgid "Restart Shell"
+msgstr "Reiniciar Shell"
+
+msgid "Suspend"
+msgstr "Suspender"
+
+msgid "Shutdown"
+msgstr "Apagar"
+
+msgid "Logout User"
+msgstr "Cerrar sesión"
+
+msgid "Lock Screen"
+msgstr "Bloquear pantalla"
+
+msgid "Preferences"
+msgstr "Ajustes"
+
+msgid "No GnoMenu stylesheet found"
+msgstr "No se encontró hoja de estilos de GnoMenu"
+
+
+
+#: placeDisplay.js
+
+msgid "Failed to launch \"%s\""
+msgstr "Fallo al iniciar"
+
+msgid "Home"
+msgstr "Personal"
+
+msgid "Computer"
+msgstr "Equipo"
+
+msgid "Browse network"
+msgstr "Red"
+
+
+#: prefs.js
+
+msgid "<b>Panel Settings</b>"
+msgstr "<b>Ajustes del panel<b>"
+
+msgid "Disable activities hot corner"
+msgstr "Desactivar esquina activa para Actividades"
+
+msgid "Remove View button from panel"
+msgstr "Quitar botón Vista del panel"
+
+msgid "Label for View button"
+msgstr "Etiqueta para el botón Vista"
+
+msgid "Use icon with View button"
+msgstr "Usar icono con el botón Vista"
+
+msgid "Remove Apps button from panel"
+msgstr "Quitar botón Aplicaciones del panel"
+
+msgid "Label for Apps button"
+msgstr "Etiqueta para el botón Aplicaciones"
+
+msgid "Use icon with Apps button"
+msgstr "Usar icono con el botón Aplicaciones"
+
+msgid "Remove Menu button from panel"
+msgstr "Quitar el botón Menú del panel"
+
+msgid "Label for Menu button"
+msgstr "Etiqueta para el botón Menú"
+
+msgid "Use icon with Menu button"
+msgstr "Usar icono con el botón Menú"
+
+msgid "Disable Menu button hot spot"
+msgstr "Desactivar activación automática del botón Menú al pasar el ratón"
+
+msgid "Disable Menu button shortcut key"
+msgstr "Desactivar el atajo de teclado para el botón Menú"
+
+msgid "Invalid accelerator. Try F12, <Super>space, <Ctrl><Alt><Shift>a, etc."
+msgstr "Combinación de teclas no válida. Pruebe F12, <Super>espacio, <Ctrl><Alt><Shift>a, etc."
+
+msgid "<b>Menu Settings</b>"
+msgstr "Ajustes del Menú"
+
+msgid "Hide Shortcuts Panel"
+msgstr "Ocultar Panel de Atajos"
+
+msgid "Menu layout size"
+msgstr "Tamaño de cuadrícula del menú"
+
+msgid "Large"
+msgstr "Grande"
+
+msgid "Medium"
+msgstr "Mediano"
+
+msgid "Small"
+msgstr "Pequeño"
+
+msgid "Icons to display on Shortcuts Panel"
+msgstr "Iconos a mostrar en el panel de Atajos"
+
+msgid "Applications to display at startup"
+msgstr "Aplicaciones a mostrar al inicio"
+
+msgid "All"
+msgstr "Todas"
+
+msgid "Frequent"
+msgstr "Frecuentes"
+
+msgid "Default view mode for applications"
+msgstr "Modo de vista por omisión para las aplicaciones"
+
+msgid "List"
+msgstr "Lista"
+
+msgid "Grid"
+msgstr "Rejilla"
+
+msgid "Category selection method"
+msgstr "Método de selección de categorías"
+
+msgid "Hover"
+msgstr "Pasar el ratón"
+
+msgid "Click"
+msgstr "Click"
+
+msgid "Size of Shortcuts Panel icons"
+msgstr "Tamaño de los iconos del panel de Atajos"
+
+msgid "Size of Application List icons"
+msgstr "Tamaño de los iconos de lista de Aplicaciones"
+
+msgid "Size of Application Grid icons"
+msgstr "Tamaño de los iconos de rejilla de Aplicaciones"
+
+
+#: webChromium.js
+
+
+#: webEpiphany.js
+
+
+#: webFirefox.js
+
+
+#: webGoogleChrome.js
+
+
+#: webMidori.js
+
+
+#: webOpera.js
+
+
+#: workspaceThumbnail.js
