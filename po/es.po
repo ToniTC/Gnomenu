@@ -48,10 +48,10 @@ msgid "Grid View"
 msgstr "Vista de rejilla"
 
 msgid "Type to search..."
-msgstr "Teclee para buscar"
+msgstr "Teclee para buscar..."
 
 msgid "Frequent Apps"
-msgstr "Aplicationes frecuentes"
+msgstr "Aplicaciones frecuentes"
 
 msgid "All Applications"
 msgstr "Todas las aplicaciones"
@@ -100,7 +100,7 @@ msgid "<b>Panel Settings</b>"
 msgstr "<b>Ajustes del panel<b>"
 
 msgid "Disable activities hot corner"
-msgstr "Desactivar esquina activa para Actividades"
+msgstr "Desactivar esquina activa de Actividades"
 
 msgid "Remove View button from panel"
 msgstr "Quitar botón Vista del panel"
@@ -139,7 +139,7 @@ msgid "Invalid accelerator. Try F12, <Super>space, <Ctrl><Alt><Shift>a, etc."
 msgstr "Combinación de teclas no válida. Pruebe F12, <Super>espacio, <Ctrl><Alt><Shift>a, etc."
 
 msgid "<b>Menu Settings</b>"
-msgstr "Ajustes del Menú"
+msgstr "Ajustes del menú"
 
 msgid "Hide Shortcuts Panel"
 msgstr "Ocultar Panel de Atajos"
@@ -190,10 +190,10 @@ msgid "Size of Shortcuts Panel icons"
 msgstr "Tamaño de los iconos del panel de Atajos"
 
 msgid "Size of Application List icons"
-msgstr "Tamaño de los iconos de lista de Aplicaciones"
+msgstr "Tamaño de los iconos de lista de aplicaciones"
 
 msgid "Size of Application Grid icons"
-msgstr "Tamaño de los iconos de rejilla de Aplicaciones"
+msgstr "Tamaño de los iconos de rejilla de aplicaciones"
 
 
 #: webChromium.js
